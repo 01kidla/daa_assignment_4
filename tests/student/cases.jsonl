@@ -1,0 +1,25 @@
+{"task": "lcs", "a": "tea_time", "b": "team"}
+{"task": "lcs", "a": "AGGTAB", "b": "GXTXAYB"}
+{"task": "lcs", "a": "", "b": "abc"}
+{"task": "lcs", "a": "abc", "b": "def"}
+{"task": "merge", "sizes": [2, 3, 4]}
+{"task": "merge", "sizes": [1, 1, 1, 1]}
+{"task": "merge", "sizes": [7]}
+{"task": "tree", "n": 3, "weights": [4, 9, 6], "edges": [[0, 1], [1, 2]]}
+{"task": "tree", "n": 4, "weights": [10, 3, 3, 3], "edges": [[0, 1], [0, 2], [0, 3]]}
+{"task": "tree", "n": 2, "weights": [-3, -5], "edges": [[0, 1]]}
+{"task": "tree", "n": 0, "weights": [], "edges": []}
+{"task": "naive", "text": "aaaaa", "pattern": "aaa"}
+{"task": "naive", "text": "ab", "pattern": ""}
+{"task": "kmp", "text": "abababa", "pattern": "aba"}
+{"task": "kmp", "text": "ab", "pattern": "abc"}
+{"task": "rk", "text": "abdj", "pattern": "ab"}
+{"task": "rk", "text": "aaaa", "pattern": "aa"}
+{"task": "suffix", "text": "banana"}
+{"task": "suffix", "text": "aaaa"}
+{"task": "suffix", "text": "abc"}
+{"task": "suffix", "text": ""}
+{"task": "aho", "patterns": ["he", "she", "he"], "texts": ["sheshe", "sheshe", ""]}
+{"task": "aho", "patterns": ["aa"], "texts": ["aaaa"]}
+{"task": "aho", "patterns": [], "texts": ["abc"]}
+{"task": "aho", "patterns": ["a"], "texts": []}
